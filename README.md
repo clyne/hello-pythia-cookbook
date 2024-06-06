@@ -1,38 +1,23 @@
 <img src="thumbnail.png" alt="thumbnail" width="300"/>
 
-# (Replace_with_your_title) Cookbook
+# Hello Pythians Cookbook
 
 [![nightly-build](https://github.com/ProjectPythia/hello-pythia-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/hello-pythia-cookbook/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/hello-pythia-cookbook/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/811417886.svg)](https://zenodo.org/badge/latestdoi/811417886)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
-
-## Motivation
-
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+This Project Pythia Cookbook covers outputting "hello pythians" in
+a notebook cell
 
 ## Authors
 
-[First Author](@first-author), [Second Author](@second-author), etc. _Acknowledge primary content authors here_
+[John Clyne](@clyne)
 
 ### Contributors
 
 <a href="https://github.com/ProjectPythia/hello-pythia-cookbook/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ProjectPythia/hello-pythia-cookbook" />
 </a>
-
-## Structure
-
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
-
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
-
-(Add content for this section, e.g., "The foundational content includes ... ")
-
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
-
-(Add content for this section, e.g., "Example workflows include ... ")
 
 ## Running the Notebooks
 
