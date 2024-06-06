@@ -6,7 +6,7 @@
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/hello-pythia-cookbook/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/811417886.svg)](https://zenodo.org/badge/latestdoi/811417886)
 
-This Project Pythia Cookbook covers outputting "hello pythians" in
+This Project Pythia Cookbook covers outputting "Hello Pythians" in
 a notebook cell
 
 ## Authors
