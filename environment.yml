@@ -1,4 +1,4 @@
-name: cookbook-dev
+name: hello-pythia-cookbook-dev
 channels:
   - conda-forge
 dependencies:
